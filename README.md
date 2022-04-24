@@ -23,7 +23,10 @@ Git, Svn, Mercurial
 ```
 
 ## States
-![](https://github-readme-stats.vercel.app/api?username=aj-davinci&theme=dark&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=aj-davinci&theme=dark&show_icons=true&card_width=500)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aj-davinci&theme=dark&show_icons=true&card_width=500)
+
 
 ## Reach Out Here
 [<img src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](mailto:a13.trada@gmail.com)
