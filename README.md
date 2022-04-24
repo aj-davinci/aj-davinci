@@ -25,7 +25,7 @@ Git, Svn, Mercurial
 ## States
 ![](https://github-readme-stats.vercel.app/api?username=aj-davinci&theme=dark&show_icons=true&card_width=500)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aj-davinci&theme=dark&show_icons=true&card_width=500)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aj-davinci&theme=dark&show_icons=true&card_width=500&langs_count=10)
 
 
 ## Reach Out Here
