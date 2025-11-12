@@ -1,5 +1,5 @@
 ## Full Stack Developer
-- Senior software engineer with more than 9+ years of professional experience in developing challenging and highly interactive applications.
+- Senior software engineer with more than 9 years of professional experience in developing challenging and highly interactive applications.
 - Love to learn and create new things, explore new technologies and build good quality software.
 - Work to create better future for developers as well as users.
 
